@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="LTRRTLSideMenu/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="LTRRTLSideMenu/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="1nZ-ji-7yj.normalTitle">
+        <source>Menu</source>
+        <target>قائمة طعام</target>
+        <note>Class = "UIButton"; normalTitle = "Menu"; ObjectID = "1nZ-ji-7yj";</note>
+      </trans-unit>
+      <trans-unit id="IFm-cd-g9p.normalTitle">
+        <source>Switch Language</source>
+        <target>تبديل اللغة</target>
+        <note>Class = "UIButton"; normalTitle = "Switch Language"; ObjectID = "IFm-cd-g9p";</note>
+      </trans-unit>
+      <trans-unit id="knv-zG-cLh.text">
+        <source>Data Not Found</source>
+        <target>لم يتم العثور على بيانات</target>
+        <note>Class = "UILabel"; text = "Data Not Found"; ObjectID = "knv-zG-cLh";</note>
+      </trans-unit>
+      <trans-unit id="lrn-MN-vR0.text">
+        <source>Main View</source>
+        <target>شاشة العرض الرئيسية</target>
+        <note>Class = "UILabel"; text = "Main View"; ObjectID = "lrn-MN-vR0";</note>
+      </trans-unit>
+      <trans-unit id="mh7-vP-N0I.text">
+        <source>Menu</source>
+        <target>قائمة طعام</target>
+        <note>Class = "UILabel"; text = "Menu"; ObjectID = "mh7-vP-N0I";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LTRRTLSideMenu/Info.plist" source-language="en" datatype="plaintext" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LTRRTLSideMenu/Localizable.strings" source-language="en" datatype="plaintext" target-language="ar">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.2" build-num="8E2002"/>
+    </header>
+    <body>
+      <trans-unit id="Data Not Foud">
+        <source>Data Not Foud</source>
+        <note>Data not found in main scene</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

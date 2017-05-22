@@ -1,0 +1,15 @@
+/* Class = "UIButton"; normalTitle = "Menu"; ObjectID = "1nZ-ji-7yj"; */
+"1nZ-ji-7yj.normalTitle" = "قائمة طعام";
+
+/* Class = "UIButton"; normalTitle = "Switch Language"; ObjectID = "IFm-cd-g9p"; */
+"IFm-cd-g9p.normalTitle" = "تبديل اللغة";
+
+/* Class = "UILabel"; text = "Data Not Found"; ObjectID = "knv-zG-cLh"; */
+"knv-zG-cLh.text" = "لم يتم العثور على بيانات";
+
+/* Class = "UILabel"; text = "Main View"; ObjectID = "lrn-MN-vR0"; */
+"lrn-MN-vR0.text" = "شاشة العرض الرئيسية";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "mh7-vP-N0I"; */
+"mh7-vP-N0I.text" = "قائمة طعام";
+
